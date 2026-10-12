@@ -33,6 +33,7 @@ Use rtk-setup. Configure RTK for Claude Code, Codex, and OpenCode in this reposi
 - Caveman skills from `JuliusBrussee/caveman`.
 - JSMastery skills from `jsmastery-pro/jsm-agent-skill`.
 - `rtk-setup`, maintained here, for portable RTK installation and agent setup.
+- `teach-me-simply`, maintained here, for clear, beginner-friendly lessons from PDFs, documents, links, and pasted sources. Invoke with `$teach-me-simply Study this and explain it with simple examples.`
 
 ## Updating
 
